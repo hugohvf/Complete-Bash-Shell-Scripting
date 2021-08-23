@@ -1,4 +1,4 @@
-> file_name defualts to success output
+> file_name defaults to success output
 1>file_name  success output
 2>file_name  error output
 
